@@ -27,4 +27,4 @@ https://github.com/Ole-Leo/dice-game.git
 npx http-server
 ```
 
-Без установки играть можно в [демо версии]()
+Без установки играть можно в [демо версии](https://ole-leo.github.io/dice-game/)
